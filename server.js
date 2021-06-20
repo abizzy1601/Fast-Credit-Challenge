@@ -24,7 +24,7 @@ const swaggerOptions = {
     },
 servers: [ 
       {
-        url: "https://Fast-Credit-Challenge.abizzy1601.repl.co",
+        url: "https://fast-credit-challenge-2.abizzy1601.repl.co/",
       },
     ],
   },
