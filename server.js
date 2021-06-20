@@ -69,10 +69,10 @@ app.use('/api-docs', swaggerUI.serve, swaggerUI.setup(swaggerDocs));
  *     type: string
  *     description: Nationality
  *     nationality: 'Nigerian'
- *    password:
+ *    passwordd:
  *     type: string
  *     description: Password
- *     password: 'abiodun'
+ *     passwordd: 'abiodun'
  * 
  */
 
